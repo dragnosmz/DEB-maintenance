@@ -1,0 +1,28 @@
+Update Mirrors and System;
+  
+sudo apt update     - update archives
+sudo apt upgrade    - update packages
+
+to only upgrade package (chrome) - sudo apt-get install --only-upgrade google-chrome-stable 
+
+sudo apt update && sudo apt upgrade - update all
+ *if this dont work use this - sudo apt update && sudo apt upgrade -y
+
+
+Errors;
+
+For audio driver/device  not detecting... kill audioprocess -   pulseaudio -k
+and run pulseaudio again 
+
+for network not detecting graphically disable LAN or Wifi and reconnect or Restart network
+
+
+
+Cleaning;
+
+apt autoclean
+apt autoremove
+
+or *Use bleachbit app for graphical way;
+
+       sudo apt install bleachbit

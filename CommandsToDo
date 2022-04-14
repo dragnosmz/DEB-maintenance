@@ -1,0 +1,24 @@
+Nice to have commands;
+
+neofetch      - asci display sys info
+htop          - system monitor
+-k            - kill process
+clear
+exit
+ping 1.1.1.1  - check connection
+
+ifconfig      - for network details
+
+
+
+Basics;
+
+cd            - change directory (ex;  cd bash.history) 
+ls            - list files
+ls -lh        - long way list files
+xdg-open      - for openning files (ex; go to file location by cd/ and  xdg-open dead-1648663676344-142.jpg)
+
+
+
+
+sudo apt install spotify   - for installing spotify

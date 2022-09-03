@@ -3,7 +3,7 @@ Update Mirrors and System;
 sudo apt update     - update archives
 sudo apt upgrade    - update packages
 
-to only upgrade package (chrome) - sudo apt-get install --only-upgrade google-chrome-stable 
+to only upgrade package (dont use chrome) - sudo apt-get install --only-upgrade google-chrome-stable 
 
 sudo apt update && sudo apt upgrade - update all
  *if this dont work use this - sudo apt update && sudo apt upgrade -y

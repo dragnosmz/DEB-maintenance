@@ -22,7 +22,3 @@ Cleaning;
 
 apt autoclean
 apt autoremove
-
-or *Use bleachbit app for graphical way;
-
-       sudo apt install bleachbit

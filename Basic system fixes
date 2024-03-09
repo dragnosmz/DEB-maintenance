@@ -8,15 +8,12 @@ to only upgrade package (dont use chrome) - sudo apt-get install --only-upgrade 
 sudo apt update && sudo apt upgrade - update all
  *if this dont work use this - sudo apt update && sudo apt upgrade -y
 
-
 Errors;
 
 For audio driver/device  not detecting... kill audioprocess -   pulseaudio -k
 and run pulseaudio again 
 
 for network not detecting graphically disable LAN or Wifi and reconnect or Restart network
-
-
 
 Cleaning;
 
